@@ -2,7 +2,7 @@
 > 
 ---
 
-## ⚙️ Project Type Flags
+##  Project Type Flags
 > 
 
 - [ ] Data Cleaning / Wrangling
@@ -248,10 +248,9 @@ The non-linear interactions between demographic variables—such as the compound
 ## 13. Author
 
 **[Onyinye Stephanie Ozor]**
-[ AI & ML Specialist| Data Analyst ]
+[ AI & ML Consultant| Data Analyst ]
 
-- 🔗 [https://www.linkedin.com/in/onyinyeozor/]
-- 💼 [Portfolio or GitHub profile URL]
+-  [https://www.linkedin.com/in/onyinyeozor/]
 
 
 ---
